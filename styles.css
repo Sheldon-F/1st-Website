@@ -1,5 +1,8 @@
 body {
-  background-image: url(https://sheldon-f.github.io/1st-Website/images/background/schoolAthens.jpg) center;
+  background-image: url(https://sheldon-f.github.io/1st-Website/images/background/schoolAthens.jpg);
+  background-size: cover; /* Ensures the image covers the entire background */
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat; /* Prevents the image from repeating */
   font-family: sans-serif;
   padding: 20px;
 }
