@@ -2,6 +2,7 @@ body {
   background-image: url(https://sheldon-f.github.io/1st-Website/images/spiral.jpg);
   font-family: sans-serif;
   padding: 20px;
+  min-height: 100vh;
 }
 
 h1 {
