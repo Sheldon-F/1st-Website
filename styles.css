@@ -42,9 +42,9 @@ img {
 }
 
 hr {
-  height: 2px;
-  background-color: brown;
-  border-color: brown;
+  height: 5px;
+  background-color: black;
+  border-color: white;
 }
 
 .bottom-line {
